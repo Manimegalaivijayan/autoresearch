@@ -1,1 +1,4 @@
 commit	val_bpb	memory_gb	status	description
+614dd73	0.599252	0.6	keep	baseline
+82ea051	0.661738	1.4	discard	increase DEPTH to 8
+9e9694a	0.610104	0.6	discard	increase TOTAL_BATCH_SIZE to 2^15
